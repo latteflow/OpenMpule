@@ -43,6 +43,7 @@ How to open an Ampule:
 2. https://www.youtube.com/watch?v=Q81ln1ek9ow
 3. https://www.youtube.com/watch?v=l9IxUi6F_18
 4. https://www.youtube.com/watch?v=-eUH60mIgaM
+5. https://www.youtube.com/shorts/VlDsDg6-AnY
 
 
 SnapIT product: 
