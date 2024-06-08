@@ -16,7 +16,14 @@ Our Objectives:
 2. It breaks the ampoule without letting any particles fall into the medicine
 3. The device does not come in any contact with the medicine
 4. It has to be cheap
-5. During the breaking procedure, the medicine in the vile does not spill 
+5. During the breaking procedure, the medicine in the vile does not spill
+
+
+![image](https://github.com/satishgaurav/ampoule/assets/36672530/2150da93-e0fb-47be-9974-e81f8e73a52c)
+![image](https://github.com/satishgaurav/ampoule/assets/36672530/566a201d-982e-4fdf-b7a1-437055076073)
+
+link: https://www.theampouleopener.com/din-ampoules/
+
 
 Existing solutions on the Internet: 
 
