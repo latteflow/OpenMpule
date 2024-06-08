@@ -1,4 +1,4 @@
-# Ampule
+# Ampoule
 A 3-D printed device to open an Ampoule
 
 
