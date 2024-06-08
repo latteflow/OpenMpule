@@ -21,6 +21,15 @@ Our Objectives:
 Existing solutions on the Internet: 
 
 
+Glass Ampoules: Risk and Benefits: 
+https://www.scielo.br/j/rba/a/rCCBzdXKYPKqprCpLy8rqxJ/?lang=en#
+https://doi.org/10.1590/S0034-70942011000400013
+
+https://pharmaceuticalmanufacturer.media/pharmaceutical-industry-insights/traditionally-packaged-what-are-the-benefits-of-ampoules/
+
+Different shapes of ampoules: https://ltbiotech.lt/glassware/
+
+
 The Evolution of Ampoule Packaging: 
 https://somewang.com/blog/the-evolution-of-ampoule-packaging/
 
