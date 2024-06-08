@@ -20,6 +20,18 @@ Our Objectives:
 
 Existing solutions on the Internet: 
 
+
+The Evolution of Ampoule Packaging: 
+https://somewang.com/blog/the-evolution-of-ampoule-packaging/
+
+
+Safety concerns of Glass Ampoules: 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8221140
+
+Glass Ampoules for Medical Application: 
+https://www.nipro-group.com/sites/default/files/2024-03/Ampoules%20-%20Brochure.pdf
+
+
 Patented product to open an Ampoule
 
 1. http://ampoule-opener.com/index-english.htm
