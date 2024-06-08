@@ -20,6 +20,11 @@ Our Objectives:
 
 Existing solutions on the Internet: 
 
+Patented product to open an Ampoule
+http://ampoule-opener.com/index-english.htm
+https://www.youtube.com/watch?v=ep5Xn7QhTlE
+
+
 https://cults3d.com/en/3d-model/tool/ampouleopener-1ml-ampulenoeffner-1ml_ampouleopener_v1-0-stl
 https://www.printables.com/en/model/693889-ampoule-breaker-expanded/files
 https://www.thingiverse.com/thing:5232010
