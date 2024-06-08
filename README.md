@@ -21,8 +21,13 @@ Our Objectives:
 Existing solutions on the Internet: 
 
 Patented product to open an Ampoule
+
 http://ampoule-opener.com/index-english.htm
 https://www.youtube.com/watch?v=ep5Xn7QhTlE
+
+https://www.youtube.com/watch?v=WaKTigg6x0s
+https://www.theampouleopener.com/
+
 
 
 https://cults3d.com/en/3d-model/tool/ampouleopener-1ml-ampulenoeffner-1ml_ampouleopener_v1-0-stl
