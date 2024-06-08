@@ -34,9 +34,20 @@ Wikipedia:
 https://en.wikipedia.org/wiki/Ampoule
 
 How to open an Ampule: 
+
 https://www.youtube.com/watch?v=zmxAL1ZN964
+https://www.youtube.com/watch?v=Q81ln1ek9ow
+https://www.youtube.com/watch?v=l9IxUi6F_18
+
+
+SnapIT product: 
+
+https://www.qlicksmart.com/product/snapit-lite-ampoule-opener/
+https://www.youtube.com/watch?v=sWG5rtvSXec
+
 
 This article describes the process of breaking an ampoule using bare hands:
+
 https://www.wikihow.com/Open-an-Ampule
 
 Link: 
