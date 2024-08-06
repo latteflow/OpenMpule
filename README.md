@@ -1,22 +1,14 @@
-# Ampoule
-A 3-D printed device to open an Ampoule
-
+# OpenMpule
+A 3-D printed device to open an Ampoule.
 
 ## Problem Statement 
-Recently, I was watching a YouTube video and came across this video. 
-When an ampoule is snapped, a few pieces of glass shards produced during this process fall into the medicine. Generally, the needle diameter is less than the shared particle size, and it is not a health hazard. However, the smaller particle has still the chance to be sucked by the needle. There are other better ways to prevent the particle from going into the syringe such as a disposable infusion filter. 
+Recently, On YouTube, I came across a video where an ampoule is snapped, and a few pieces of glass shards produced during this process fall into the medicine. Generally, the needle diameter is less than the size of the glass shard particles. It doesn't get sucked with medicine into the syringe and it is not a health hazard. There are special syringes with disposable infusion filters. However, the smaller particle still has the chance to be sucked by the syringe. Also, when snapping the ampoule, nurses or doctors sometimes accidentally hurt themselves. So I came to wonder if there is a better to break the ampoule without letting any piece of glass fall into the medicine. 
 
-So I came to wonder if there is a better to break the ampoule without letting any piece of glass fall into the medicine. 
-
-I think we should figure it out. 
-
-
-Our Objectives: 
-1. It has to be 3D printable
+## Objectives: 
+1. It has to be 3D printable/cheap 
 2. It breaks the ampoule without letting any particles fall into the medicine
-3. The device does not come in any contact with the medicine
-4. It has to be cheap
-5. During the breaking procedure, the medicine in the vile does not spill
+3. It does not come in any contact with the medicine. During the breaking procedure, the medicine in the vile should not spill
+4. It can be used to open ampoules of all shapes and sizes (maybe)
 
 
 ![image](https://github.com/satishgaurav/ampoule/assets/36672530/2150da93-e0fb-47be-9974-e81f8e73a52c)
@@ -36,10 +28,8 @@ https://pharmaceuticalmanufacturer.media/pharmaceutical-industry-insights/tradit
 
 Different shapes of ampoules: https://ltbiotech.lt/glassware/
 
-
 The Evolution of Ampoule Packaging: 
 https://somewang.com/blog/the-evolution-of-ampoule-packaging/
-
 
 Safety concerns of Glass Ampoules: 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8221140
@@ -66,7 +56,6 @@ Wikipedia:
 https://en.wikipedia.org/wiki/Ampoule
 
 How to open an Ampule: 
-
 1. https://www.youtube.com/watch?v=zmxAL1ZN964
 2. https://www.youtube.com/watch?v=Q81ln1ek9ow
 3. https://www.youtube.com/watch?v=l9IxUi6F_18
