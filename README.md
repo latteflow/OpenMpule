@@ -1,24 +1,24 @@
 # OpenMpule
 A 3-D printed device to open an Ampoule.
+
 ![image](https://github.com/satishgaurav/ampoule/assets/36672530/2150da93-e0fb-47be-9974-e81f8e73a52c)
 
 ## Problem Statement 
 Recently, on YouTube, I came across a video where an ampoule is snapped, and a few pieces of glass shards produced during this process fall into the medicine. Generally, the needle diameter is less than the size of the glass shard particles, so they don't get sucked with the medicine into the syringe and are not a health hazard. There are special syringes with disposable infusion filters to prevent this. However, the smaller particle still has the chance to be sucked by the syringe. Also, when snapping the ampoule, nurses or doctors sometimes accidentally hurt themselves. So I came to wonder if there is a better to break the ampoule without letting any piece of glass fall into the medicine. 
 
-## Objectives: 
+## Objectives 
 1. It has to be 3D printable/cheap 
 2. It breaks the ampoule without letting any particles fall into the medicine
 3. It does not come in any contact with the medicine. During the breaking procedure, the medicine in the vile should not spill
 4. It can be used to open ampoules of all shapes and sizes (maybe)
 
-Size of ampoules 
+### Size of ampoules 
 ![image](https://github.com/satishgaurav/ampoule/assets/36672530/566a201d-982e-4fdf-b7a1-437055076073)
 
 link: https://www.theampouleopener.com/din-ampoules/
 
 
-Existing solutions on the Internet: 
-
+## Existing solutions on the Internet: 
 
 Glass Ampoules: Risk and Benefits: 
 https://www.scielo.br/j/rba/a/rCCBzdXKYPKqprCpLy8rqxJ/?lang=en#
