@@ -18,7 +18,7 @@ Recently, on YouTube, I came across a video where an ampoule is snapped, and a f
 link: https://www.theampouleopener.com/din-ampoules/
 
 
-## Existing solutions on the Internet: 
+## Existing solutions (on the Internet)
 
 Glass Ampoules: Risk and Benefits: 
 https://www.scielo.br/j/rba/a/rCCBzdXKYPKqprCpLy8rqxJ/?lang=en#
@@ -44,7 +44,6 @@ Patented product to open an Ampoule
 2. https://www.youtube.com/watch?v=ep5Xn7QhTlE
 3. https://www.youtube.com/watch?v=WaKTigg6x0s
 4. https://www.theampouleopener.com/
-
 
 
 1. https://cults3d.com/en/3d-model/tool/ampouleopener-1ml-ampulenoeffner-1ml_ampouleopener_v1-0-stl
